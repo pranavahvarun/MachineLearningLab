@@ -1,5 +1,3 @@
-
----
 # Experiment 2: Loan Amount Prediction using Linear Regression
 
 ## 🎯 Objective
