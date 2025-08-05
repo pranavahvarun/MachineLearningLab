@@ -1,8 +1,3 @@
-
----
-
-### 🔹 **Experiment 3: Email Spam or Ham Classification**
-```markdown
 # Experiment 3: Email Spam or Ham Classification
 
 ## 🎯 Objective
@@ -39,6 +34,5 @@ Classify emails as spam or ham using Naive Bayes, KNN, and SVM classifiers and e
 - Naive Bayes: 0.861
 
 ## 🧪 How to Run
-```bash
 pip install -r requirements.txt
 jupyter notebook experiment3.ipynb
