@@ -32,5 +32,6 @@ To build a Linear Regression model to predict loan amounts based on user feature
 - Actual vs Predicted plot
 
 ## 🧪 How to Run
+```bash
 pip install -r requirements.txt
 jupyter notebook experiment2.ipynb
