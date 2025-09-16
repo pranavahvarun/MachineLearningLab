@@ -79,7 +79,7 @@ On **validation and test sets**:
     ```bash
     python mlp.py
 
-##🏁 Conclusion
+## 🏁 Conclusion
 
 PLA is limited to linearly separable problems and showed poor performance on high-dimensional character recognition.
 MLP handled complex non-linear relationships better and achieved much higher accuracy.
